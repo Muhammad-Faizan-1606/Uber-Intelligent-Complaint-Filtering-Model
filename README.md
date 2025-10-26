@@ -223,12 +223,6 @@ python core/retrain.py
 -----------------------------------
 🧠 AUTHOR
 -----------------------------------
-Developed by Farasat Anees  
+Developed by Muhammad Faizan 
 Agentic Complaint AI — 2025
 """
-
-# Save file
-with open("/mnt/data/README.txt", "w") as f:
-    f.write(readme_text)
-
-"/mnt/data/README.txt"
