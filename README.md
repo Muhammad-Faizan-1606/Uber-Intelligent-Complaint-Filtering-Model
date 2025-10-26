@@ -1,8 +1,5 @@
-# Uber-Intelligent-Complaint-Filtering-Model
-
-readme_text = """
 ===============================
-🧠 INTELLIGENT COMPLAINT FILTERING MODEL
+🧠 UBER INTELLIGENT COMPLAINT FILTERING MODEL
 ===============================
 
 This project is a Flask-based intelligent decision system that classifies and logs complaints (e.g., for Uber Eats style refund/deny/escalate decisions). 
